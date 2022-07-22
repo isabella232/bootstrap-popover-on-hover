@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-popover-on-hover",
+  "version": "1.0.0",
+  "description": "Responsive Popover on hover built with Bootstrap 5. Examples of custom html, directions, images & more.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-popover-on-hover.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "reponsive",
+    "responsive-design",
+    "bootstrap-popover"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-popover-on-hover/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/popover-on-hover/"
+}
